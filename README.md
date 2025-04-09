@@ -5,11 +5,15 @@ w folderze backend należy stworzyć plik .env a w nim:
 URUCHOMIENIE
 
 w folderze backend:
+
     npm install
+    
     npx ts-node src/index.ts
 
 w folderze frontend
+
     npm install
+    
     npm run dev
 
 http://localhost:5173/
